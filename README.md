@@ -1,4 +1,4 @@
-# Publicando-o-seu-Pr-prio-Jogo-no-Unity
+# Publicando-o-seu-Próprio-Jogo-no-Unity
 
 Vou criar um guia detalhado para publicar esse jogo no Unity, passo a passo. Vou dividir o processo em módulos para facilitar o entendimento. Vamos lá:
 
